@@ -1,2 +1,16 @@
-# Portafolio
-Algunos proyectos relevantes
+# 👋 Hi, I'm Mario Páez
+
+💻 Full-Stack Software Engineer with more than 15 years of experience building custom business solutions.
+
+🚀 I specialize in:
+- Backend: .NET Core, C#, Web API, Clean Architecture
+- Frontend: Angular, React, TypeScript, HTML, CSS
+- Databases: SQL Server, Oracle
+- DevOps: Docker, GitLab CI/CD, IIS Deployment
+
+🌱 I’m currently learning cloud-based microservices and big data integration.
+
+📚 Author of the book *“Tu Sendero Saludable”* — combining technology, health, and personal growth.
+
+📫 Reach me at: [mariobetopc@gmail.com](mailto:mariobetopc@gmail.com)
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mario-paez)
