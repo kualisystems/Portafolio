@@ -28,3 +28,5 @@ https://github.com/kualisystems/ManejoPresupuesto   Aplicación MVC para el regi
 https://github.com/kualisystems/WSJS  API para la aplicación del expendio de jugos con EntityFramework.
 
 https://github.com/kualisystems/AppJS  Aplicación Blazor Server para el expendio de jugos.
+
+https://github.com/kualisystems/ReporteZencor  Aplicación de escritorio con WindowsForms.
