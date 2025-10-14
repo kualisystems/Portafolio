@@ -17,4 +17,4 @@
 
 Some relevant projects:
 
-https://github.com/kualisystems/creaFactura
+https://github.com/kualisystems/registro-autos   Demo para el registro de datos de un vehiculo, utilizando react.
