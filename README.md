@@ -19,6 +19,8 @@ Some relevant projects:
 
 https://github.com/kualisystems/registro-autos   Demo para el registro de datos de un vehiculo, utilizando react.
 
-https://github.com/kualisystems/dspsApi    Api Dispharma.
+https://github.com/kualisystems/dspsApi    API Dispharma.
 
 https://github.com/kualisystems/ManejoPresupuesto   Aplicación MVC para el registro de gastos.
+
+https://github.com/kualisystems/WSJS  API para la aplicación del expendio de jugos.
