@@ -23,6 +23,6 @@ https://github.com/kualisystems/dspsApi    API Dispharma.
 
 https://github.com/kualisystems/ManejoPresupuesto   Aplicación MVC para el registro de gastos.
 
-https://github.com/kualisystems/WSJS  API para la aplicación del expendio de jugos.
+https://github.com/kualisystems/WSJS  API para la aplicación del expendio de jugos con EntityFramework.
 
 https://github.com/kualisystems/AppJS  Aplicación Blazor Server para el expendio de jugos.
