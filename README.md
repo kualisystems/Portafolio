@@ -14,3 +14,7 @@
 
 📫 Reach me at: [mariobetopc@gmail.com](mailto:mariobetopc@gmail.com)
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mario-paez)
+
+Some relevant projects:
+
+https://github.com/kualisystems/creaFactura
