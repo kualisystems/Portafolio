@@ -12,7 +12,7 @@
 
 📚 Author of the book *“Tu Sendero Saludable”* — combining technology, health, and personal growth.
 
-📫 Reach me at: [mariobetopc@gmail.com](mailto:mariobetopc@gmail.com)
+📫 Reach me at: [ing.mario.paez@gmail.com](mailto:ing.mario.paez@gmail.com)
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mario-paez)
 
 Some relevant projects:
