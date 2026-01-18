@@ -10,7 +10,8 @@
 
 🌱 I’m currently learning cloud-based microservices and big data integration.
 
-📚 Author of the book *“Tu Sendero Saludable”* — combining technology, health, and personal growth.
+📚 Author of the book *“Tu Sendero Saludable”* — combining health experience and personal growth.
+https://a.co/d/04jz5f0S
 
 📫 Reach me at: [ing.mario.paez@gmail.com](mailto:ing.mario.paez@gmail.com)
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mario-paez)
